@@ -1,6 +1,6 @@
 # Monorepo Template
 
-A reusable monorepo template.
+A reusable monorepo template by Master Lodi [@pgdureza](https://github.com/pgdureza)
 
 ## What's inside?
 
